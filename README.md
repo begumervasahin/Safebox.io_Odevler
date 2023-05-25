@@ -2,4 +2,6 @@
  Eğitim boyunca yaptığımız ödevler
  
  
-   *Kullanıcı Girişi
+   *Kullanıcı Girişi 
+   
+   *Film Kayıt Ekranı
